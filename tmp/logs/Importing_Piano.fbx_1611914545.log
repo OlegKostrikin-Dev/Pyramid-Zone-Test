@@ -1,0 +1,49 @@
+[13:02:25.383583] [Import] [info] (th=186168) Importing from /Users/oleg/Temp/Piano.fbx
+[13:02:25.391591] [Import] [info] (th=186168) Imported scene tree:
+name: "RootNode"
+
+	name: "Cube.002"
+	numMeshes: 1
+	 addr: "0x7fb0f81d0200"
+	 name: "Cube.012"
+	 numVertices: "712"
+	 numFaces: "448"
+	
+	
+	name: "Cube.001"
+	numMeshes: 1
+	 addr: "0x7fb0f861dc00"
+	 name: "Cube.013"
+	 numVertices: "918"
+	 numFaces: "476"
+	
+	
+	name: "Cube.005"
+	numMeshes: 1
+	 addr: "0x7fb0f828a800"
+	 name: "Cube.014"
+	 numVertices: "1026"
+	 numFaces: "672"
+	
+	
+	name: "Cube.006"
+	numMeshes: 1
+	 addr: "0x7fb0f829f400"
+	 name: "Cube.015"
+	 numVertices: "230"
+	 numFaces: "132"
+	
+	
+	name: "Cube.007"
+	numMeshes: 1
+	 addr: "0x7fb0f82b2800"
+	 name: "Cube.016"
+	 numVertices: "3900"
+	 numFaces: "3032"
+	
+	
+
+[13:02:25.391599] [Import] [info] (th=186168) File loaded successfully
+[13:02:25.391602] [Import] [info] (th=186168) Meshes count: 5
+[13:02:25.391603] [Import] [info] (th=186168) Materials count: 2
+[13:02:25.391701] [Import] [info] (th=186168) Textures count (imported): 0

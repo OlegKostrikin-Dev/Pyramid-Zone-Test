@@ -1,0 +1,168 @@
+[19:15:56.948387] [Import] [info] (th=510847) Importing from /Users/oleg/Dropbox/Запросы файлов/MANU-Assets 1.1.0/prp_Pyramid/Pyramid_New.fbx
+[19:15:56.957182] [Import] [info] (th=510847) Imported scene tree:
+name: "RootNode"
+
+	name: "world_root"
+	
+	name: "Armature_00_00"
+	numMeshes: 1
+	 addr: "0x7fec860d0400"
+	 name: "Mesh.005"
+	 numVertices: "264"
+	 numFaces: "164"
+	
+	
+	name: "Armature_00_00.001"
+	numMeshes: 1
+	 addr: "0x7fed409da400"
+	 name: "Mesh.006"
+	 numVertices: "264"
+	 numFaces: "164"
+	
+	
+	name: "Pyramid"
+	numMeshes: 1
+	 addr: "0x7fec863bd600"
+	 name: "Mesh.023"
+	 numVertices: "1808"
+	 numFaces: "1185"
+	
+	
+	name: "Pyramid.001"
+	numMeshes: 1
+	 addr: "0x7fec86210c00"
+	 name: "Mesh.024"
+	 numVertices: "3092"
+	 numFaces: "2179"
+	
+	
+	name: "DoorBort_00_01"
+	numMeshes: 1
+	 addr: "0x7fed40d7bc00"
+	 name: "Mesh.025"
+	 numVertices: "64"
+	 numFaces: "40"
+	
+	
+	name: "Pyramid.002"
+	numMeshes: 1
+	 addr: "0x7fec867f9000"
+	 name: "Mesh.026"
+	 numVertices: "88"
+	 numFaces: "48"
+	
+	
+	name: "Plane.001"
+	numMeshes: 1
+	 addr: "0x7fec867fa800"
+	 name: "Plane.002"
+	 numVertices: "772"
+	 numFaces: "960"
+	
+	
+	name: "Pyramid.003"
+	numMeshes: 1
+	 addr: "0x7fec867fdc00"
+	 name: "Mesh.027"
+	 numVertices: "32"
+	 numFaces: "16"
+	
+	
+	name: "Pyramid.004"
+	numMeshes: 1
+	 addr: "0x7fec866bf200"
+	 name: "Mesh.028"
+	 numVertices: "48"
+	 numFaces: "24"
+	
+	
+
+[19:15:56.957193] [Import] [info] (th=510847) File loaded successfully
+[19:15:56.957196] [Import] [info] (th=510847) Meshes count: 9
+[19:15:56.957197] [Import] [info] (th=510847) Materials count: 4
+[19:15:56.957241] [Import] [error] (th=510847) Can't find mesh for replace.
+[19:16:16.831622] [Import] [info] (th=510847) Importing from /Users/oleg/Dropbox/Запросы файлов/MANU-Assets 1.1.0/prp_Pyramid/Pyramid_New.fbx
+[19:16:16.840036] [Import] [info] (th=510847) Imported scene tree:
+name: "RootNode"
+
+	name: "world_root"
+	
+	name: "Armature_00_00"
+	numMeshes: 1
+	 addr: "0x7fec93756a00"
+	 name: "Mesh.005"
+	 numVertices: "264"
+	 numFaces: "164"
+	
+	
+	name: "Armature_00_00.001"
+	numMeshes: 1
+	 addr: "0x7fec93739a00"
+	 name: "Mesh.006"
+	 numVertices: "264"
+	 numFaces: "164"
+	
+	
+	name: "Pyramid"
+	numMeshes: 1
+	 addr: "0x7fec936d2600"
+	 name: "Mesh.023"
+	 numVertices: "1808"
+	 numFaces: "1185"
+	
+	
+	name: "Pyramid.001"
+	numMeshes: 1
+	 addr: "0x7fec9323d800"
+	 name: "Mesh.024"
+	 numVertices: "3092"
+	 numFaces: "2179"
+	
+	
+	name: "DoorBort_00_01"
+	numMeshes: 1
+	 addr: "0x7fec933d3e00"
+	 name: "Mesh.025"
+	 numVertices: "64"
+	 numFaces: "40"
+	
+	
+	name: "Pyramid.002"
+	numMeshes: 1
+	 addr: "0x7fec93231600"
+	 name: "Mesh.026"
+	 numVertices: "88"
+	 numFaces: "48"
+	
+	
+	name: "Plane.001"
+	numMeshes: 1
+	 addr: "0x7fec936c7a00"
+	 name: "Plane.002"
+	 numVertices: "772"
+	 numFaces: "960"
+	
+	
+	name: "Pyramid.003"
+	numMeshes: 1
+	 addr: "0x7fec933e3000"
+	 name: "Mesh.027"
+	 numVertices: "32"
+	 numFaces: "16"
+	
+	
+	name: "Pyramid.004"
+	numMeshes: 1
+	 addr: "0x7fec9379d200"
+	 name: "Mesh.028"
+	 numVertices: "48"
+	 numFaces: "24"
+	
+	
+
+[19:16:16.840043] [Import] [info] (th=510847) File loaded successfully
+[19:16:16.840045] [Import] [info] (th=510847) Meshes count: 9
+[19:16:16.840052] [Import] [info] (th=510847) Materials count: 4
+[19:16:16.840487] [Import] [warning] (th=510847) Texture not found: /Users/oleg/Dropbox/Запросы файлов/MANU-Assets 1.1.0/prp_Pyramid/C:/Users/Grigorii/Dropbox/MANU-Assets/TrimTileTextures_01/TrimClean_03_D.png
+[19:16:16.840527] [Import] [warning] (th=510847) Texture not found: /Users/oleg/Dropbox/Запросы файлов/MANU-Assets 1.1.0/prp_Pyramid/C:/Users/Grigorii/Dropbox/MANU-Assets/TrimTileTextures_01/TrimClean_03_N.png
+[19:16:16.840555] [Import] [info] (th=510847) Textures count (imported): 2

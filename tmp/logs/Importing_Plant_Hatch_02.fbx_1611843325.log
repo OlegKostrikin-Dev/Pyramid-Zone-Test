@@ -1,0 +1,85 @@
+[17:15:25.727982] [Import] [info] (th=3138753) Importing from /Users/oleg/Dropbox/Запросы файлов/MANU-Assets 1.1.0/prp_PlantHatch/Plant_Hatch_02.fbx
+[17:15:25.731537] [Import] [info] (th=3138753) Imported scene tree:
+name: "RootNode"
+
+	name: "Plant_Hatch_02"
+	numMeshes: 1
+	 addr: "0x7fe7bf975c00"
+	 name: "Mesh.001"
+	 numVertices: "2258"
+	 numFaces: "1398"
+	
+	
+
+[17:15:25.731544] [Import] [info] (th=3138753) File loaded successfully
+[17:15:25.731546] [Import] [info] (th=3138753) Meshes count: 1
+[17:15:25.731547] [Import] [info] (th=3138753) Materials count: 1
+[17:15:25.731566] [Import] [warning] (th=3138753) It seems that scene structure is different
+[17:20:50.674847] [Import] [info] (th=3138753) Importing from /Users/oleg/Dropbox/Запросы файлов/MANU-Assets 1.1.0/prp_PlantHatch/Plant_Hatch_02.fbx
+[17:20:50.678577] [Import] [info] (th=3138753) Imported scene tree:
+name: "RootNode"
+
+	name: "Plant_Hatch_02"
+	numMeshes: 1
+	 addr: "0x7fe819c18a00"
+	 name: "Mesh.001"
+	 numVertices: "2259"
+	 numFaces: "1398"
+	
+	
+
+[17:20:50.678589] [Import] [info] (th=3138753) File loaded successfully
+[17:20:50.678590] [Import] [info] (th=3138753) Meshes count: 1
+[17:20:50.678591] [Import] [info] (th=3138753) Materials count: 1
+[17:20:50.678606] [Import] [warning] (th=3138753) It seems that scene structure is different
+[17:30:37.006110] [Import] [info] (th=3138753) Importing from /Users/oleg/Dropbox/Запросы файлов/MANU-Assets 1.1.0/prp_PlantHatch/Plant_Hatch_02b.fbx
+[17:30:37.009517] [Import] [info] (th=3138753) Imported scene tree:
+name: "RootNode"
+
+	name: "Plant_Hatch_02"
+	numMeshes: 1
+	 addr: "0x7fe7bfbb5600"
+	 name: "Mesh.001"
+	 numVertices: "2237"
+	 numFaces: "1382"
+	
+	
+
+[17:30:37.009523] [Import] [info] (th=3138753) File loaded successfully
+[17:30:37.009524] [Import] [info] (th=3138753) Meshes count: 1
+[17:30:37.009525] [Import] [info] (th=3138753) Materials count: 1
+[17:30:37.009537] [Import] [warning] (th=3138753) It seems that scene structure is different
+[17:30:57.252327] [Import] [info] (th=3138753) Importing from /Users/oleg/Dropbox/Запросы файлов/MANU-Assets 1.1.0/prp_PlantHatch/Plant_Hatch_02b.fbx
+[17:30:57.255170] [Import] [info] (th=3138753) Imported scene tree:
+name: "RootNode"
+
+	name: "Plant_Hatch_02"
+	numMeshes: 1
+	 addr: "0x7fe7bfbe7000"
+	 name: "Mesh.001"
+	 numVertices: "2237"
+	 numFaces: "1382"
+	
+	
+
+[17:30:57.255177] [Import] [info] (th=3138753) File loaded successfully
+[17:30:57.255178] [Import] [info] (th=3138753) Meshes count: 1
+[17:30:57.255179] [Import] [info] (th=3138753) Materials count: 1
+[17:30:57.255197] [Import] [warning] (th=3138753) It seems that scene structure is different
+[17:36:08.185416] [Import] [info] (th=3138753) Importing from /Users/oleg/Dropbox/Запросы файлов/MANU-Assets 1.1.0/prp_PlantHatch/Plant_Hatch_02b.fbx
+[17:36:08.188108] [Import] [info] (th=3138753) Imported scene tree:
+name: "RootNode"
+
+	name: "Plant_Hatch_02"
+	numMeshes: 1
+	 addr: "0x7fe8bdc1b600"
+	 name: "Mesh.001"
+	 numVertices: "2237"
+	 numFaces: "1382"
+	
+	
+
+[17:36:08.188115] [Import] [info] (th=3138753) File loaded successfully
+[17:36:08.188117] [Import] [info] (th=3138753) Meshes count: 1
+[17:36:08.188118] [Import] [info] (th=3138753) Materials count: 1
+[17:36:08.188146] [Import] [warning] (th=3138753) It seems that scene structure is different

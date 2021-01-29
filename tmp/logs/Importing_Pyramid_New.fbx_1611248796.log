@@ -1,0 +1,116 @@
+[20:06:36.466530] [Import] [info] (th=15108) Importing from E:\!_WORK\GAMEdev\Manu\HARD_LANDING\Pyramid_scene\Pyramid_New.fbx
+[20:06:36.481346] [Import] [info] (th=15108) Imported scene tree:
+name: "RootNode"
+
+	name: "world_root"
+	
+	name: "Armature_00_00"
+	numMeshes: 1
+	 addr: "00000232E85545F0"
+	 name: "Mesh.005"
+	 numVertices: "264"
+	 numFaces: "164"
+	
+	
+	name: "Armature_00_00.001"
+	numMeshes: 1
+	 addr: "00000232E8551B70"
+	 name: "Mesh.006"
+	 numVertices: "264"
+	 numFaces: "164"
+	
+	
+	name: "CratesBasement_00_01"
+	numMeshes: 1
+	 addr: "00000232E8554B40"
+	 name: "Mesh.013"
+	 numVertices: "1617"
+	 numFaces: "812"
+	
+	
+	name: "Pyramid"
+	numMeshes: 1
+	 addr: "00000232E854D110"
+	 name: "Mesh.023"
+	 numVertices: "1816"
+	 numFaces: "1193"
+	
+	
+	name: "Pyramid.001"
+	numMeshes: 1
+	 addr: "00000232E854E650"
+	 name: "Mesh.024"
+	 numVertices: "3048"
+	 numFaces: "2155"
+	
+	
+	name: "DoorBort_00_01"
+	numMeshes: 1
+	 addr: "00000232E8555090"
+	 name: "Mesh.025"
+	 numVertices: "64"
+	 numFaces: "40"
+	
+	
+	name: "Pyramid.002"
+	numMeshes: 1
+	 addr: "00000232E85555E0"
+	 name: "Mesh.026"
+	 numVertices: "94"
+	 numFaces: "48"
+	
+	
+	name: "Plane.001"
+	numMeshes: 1
+	 addr: "00000232E854DBB0"
+	 name: "Plane.002"
+	 numVertices: "644"
+	 numFaces: "752"
+	
+	
+	name: "Pyramid.003"
+	numMeshes: 1
+	 addr: "00000232E8555B30"
+	 name: "Mesh.027"
+	 numVertices: "48"
+	 numFaces: "24"
+	
+	
+	name: "Pyramid.004"
+	numMeshes: 1
+	 addr: "00000232E854E100"
+	 name: "Mesh.028"
+	 numVertices: "48"
+	 numFaces: "24"
+	
+	
+
+[20:06:36.481399] [Import] [info] (th=15108) File loaded successfully
+[20:06:36.481440] [Import] [info] (th=15108) Meshes count: 10
+[20:06:36.481480] [Import] [info] (th=15108) Materials count: 5
+[20:06:36.482934] [Import] [info] (th=15108) Textures count (imported): 4
+[20:13:26.841988] [Import] [info] (th=15108) Importing from E:\!_WORK\GAMEdev\Manu\HARD_LANDING\Pyramid_scene\Pyramid_Lattice.fbx
+[20:13:26.844026] [Import] [info] (th=15108) Imported scene tree:
+name: "RootNode"
+
+	name: "Pyramid.003"
+	numMeshes: 1
+	 addr: "00000232E854F640"
+	 name: "Mesh.027"
+	 numVertices: "48"
+	 numFaces: "24"
+	
+	
+	name: "Pyramid.004"
+	numMeshes: 1
+	 addr: "00000232E8550B80"
+	 name: "Mesh.028"
+	 numVertices: "48"
+	 numFaces: "24"
+	
+	
+
+[20:13:26.844130] [Import] [info] (th=15108) File loaded successfully
+[20:13:26.844219] [Import] [info] (th=15108) Meshes count: 2
+[20:13:26.844306] [Import] [info] (th=15108) Materials count: 1
+[20:13:26.844785] [Import] [info] (th=15108) Textures count (imported): 2

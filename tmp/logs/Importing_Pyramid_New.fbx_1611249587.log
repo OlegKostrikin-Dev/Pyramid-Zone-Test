@@ -1,0 +1,100 @@
+[20:19:47.647856] [Import] [info] (th=15400) Importing from E:\!_WORK\GAMEdev\Manu\HARD_LANDING\Pyramid_scene\Pyramid_New.fbx
+[20:19:47.660677] [Import] [info] (th=15400) Imported scene tree:
+name: "RootNode"
+
+	name: "world_root"
+	
+	name: "Armature_00_00"
+	numMeshes: 1
+	 addr: "000002B24E48F270"
+	 name: "Mesh.005"
+	 numVertices: "264"
+	 numFaces: "164"
+	
+	
+	name: "Armature_00_00.001"
+	numMeshes: 1
+	 addr: "000002B24E48FD10"
+	 name: "Mesh.006"
+	 numVertices: "264"
+	 numFaces: "164"
+	
+	
+	name: "Pyramid"
+	numMeshes: 1
+	 addr: "000002B24E490D00"
+	 name: "Mesh.023"
+	 numVertices: "1816"
+	 numFaces: "1193"
+	
+	
+	name: "Pyramid.001"
+	numMeshes: 1
+	 addr: "000002B24E489D70"
+	 name: "Mesh.024"
+	 numVertices: "3048"
+	 numFaces: "2155"
+	
+	
+	name: "DoorBort_00_01"
+	numMeshes: 1
+	 addr: "000002B24E491250"
+	 name: "Mesh.025"
+	 numVertices: "64"
+	 numFaces: "40"
+	
+	
+	name: "Pyramid.002"
+	numMeshes: 1
+	 addr: "000002B24E491CF0"
+	 name: "Mesh.026"
+	 numVertices: "94"
+	 numFaces: "48"
+	
+	
+	name: "Plane.001"
+	numMeshes: 1
+	 addr: "000002B24E492240"
+	 name: "Plane.002"
+	 numVertices: "644"
+	 numFaces: "752"
+	
+	
+	name: "Pyramid.003"
+	numMeshes: 1
+	 addr: "000002B24E492790"
+	 name: "Mesh.027"
+	 numVertices: "48"
+	 numFaces: "24"
+	
+	
+	name: "Pyramid.004"
+	numMeshes: 1
+	 addr: "000002B24E492CE0"
+	 name: "Mesh.028"
+	 numVertices: "48"
+	 numFaces: "24"
+	
+	
+
+[20:19:47.660731] [Import] [info] (th=15400) File loaded successfully
+[20:19:47.660772] [Import] [info] (th=15400) Meshes count: 9
+[20:19:47.660813] [Import] [info] (th=15400) Materials count: 4
+[20:19:47.662070] [Import] [info] (th=15400) Textures count (imported): 4
+[20:24:49.109928] [Import] [info] (th=15400) Importing from E:\!_WORK\GAMEdev\Manu\HARD_LANDING\Pyramid_scene\Pyramid_frame.fbx
+[20:24:49.111759] [Import] [info] (th=15400) Imported scene tree:
+name: "RootNode"
+
+	name: "Pyramid.002"
+	numMeshes: 1
+	 addr: "000002B24E48B800"
+	 name: "Mesh.026"
+	 numVertices: "92"
+	 numFaces: "48"
+	
+	
+
+[20:24:49.111853] [Import] [info] (th=15400) File loaded successfully
+[20:24:49.111894] [Import] [info] (th=15400) Meshes count: 1
+[20:24:49.111933] [Import] [info] (th=15400) Materials count: 1
+[20:24:49.112340] [Import] [info] (th=15400) Textures count (imported): 2
