@@ -1,0 +1,199 @@
+[20:38:12.724808] [Import] [info] (th=427100) Importing from /Users/oleg/Dropbox/Запросы файлов/MANU-Assets 1.1.0/prp_PlantHatch/Plant_Hatch_02b.fbx
+[20:38:12.729152] [Import] [info] (th=427100) Imported scene tree:
+name: "RootNode"
+
+	name: "Plant_Hatch_02"
+	numMeshes: 1
+	 addr: "0x7fa726831a00"
+	 name: "Mesh.001"
+	 numVertices: "2237"
+	 numFaces: "1382"
+	
+	
+
+[20:38:12.729170] [Import] [info] (th=427100) File loaded successfully
+[20:38:12.729173] [Import] [info] (th=427100) Meshes count: 1
+[20:38:12.729174] [Import] [info] (th=427100) Materials count: 1
+[20:38:12.729197] [Import] [warning] (th=427100) It seems that scene structure is different
+[20:39:11.738758] [Import] [info] (th=427100) Importing from /Users/oleg/Dropbox/Запросы файлов/MANU-Assets 1.1.0/prp_PlantHatch/Music_Plant_Hatch_03.fbx
+[20:39:11.745869] [Import] [info] (th=427100) Imported scene tree:
+name: "RootNode"
+
+	name: "Cube.002"
+	numMeshes: 1
+	 addr: "0x7fa665094000"
+	 name: "Cube.037"
+	 numVertices: "380"
+	 numFaces: "228"
+	
+	
+	name: "Spikes"
+	numMeshes: 1
+	 addr: "0x7fa6847ffa00"
+	 name: "Cube.038"
+	 numVertices: "2164"
+	 numFaces: "1052"
+	
+	
+	name: "Spikes.001"
+	numMeshes: 1
+	 addr: "0x7fa6650bac00"
+	 name: "Cube.036"
+	 numVertices: "1090"
+	 numFaces: "530"
+	
+	
+	name: "Plant_Hatch_03_for_Music"
+	numMeshes: 1
+	 addr: "0x7fa6650c6800"
+	 name: "Mesh.006"
+	 numVertices: "2043"
+	 numFaces: "1282"
+	
+	
+
+[20:39:11.745879] [Import] [info] (th=427100) File loaded successfully
+[20:39:11.745881] [Import] [info] (th=427100) Meshes count: 4
+[20:39:11.745882] [Import] [info] (th=427100) Materials count: 1
+[20:39:11.745918] [Import] [error] (th=427100) Can't find mesh for replace.
+[20:39:28.053865] [Import] [info] (th=427100) Importing from /Users/oleg/Dropbox/Запросы файлов/MANU-Assets 1.1.0/prp_PlantHatch/Music_Plant_Hatch_03.fbx
+[20:39:28.059803] [Import] [info] (th=427100) Imported scene tree:
+name: "RootNode"
+
+	name: "Cube.002"
+	numMeshes: 1
+	 addr: "0x7fa723a3da00"
+	 name: "Cube.037"
+	 numVertices: "380"
+	 numFaces: "228"
+	
+	
+	name: "Spikes"
+	numMeshes: 1
+	 addr: "0x7fa66395ca00"
+	 name: "Cube.038"
+	 numVertices: "2164"
+	 numFaces: "1052"
+	
+	
+	name: "Spikes.001"
+	numMeshes: 1
+	 addr: "0x7fa663992800"
+	 name: "Cube.036"
+	 numVertices: "1090"
+	 numFaces: "530"
+	
+	
+	name: "Plant_Hatch_03_for_Music"
+	numMeshes: 1
+	 addr: "0x7fa6639a6000"
+	 name: "Mesh.006"
+	 numVertices: "2043"
+	 numFaces: "1282"
+	
+	
+
+[20:39:28.059812] [Import] [info] (th=427100) File loaded successfully
+[20:39:28.059814] [Import] [info] (th=427100) Meshes count: 4
+[20:39:28.059815] [Import] [info] (th=427100) Materials count: 1
+[20:39:28.060067] [Import] [info] (th=427100) Textures count (imported): 2
+[20:41:06.036573] [Import] [info] (th=427100) Importing from /Users/oleg/Dropbox/Запросы файлов/MANU-Assets 1.1.0/prp_PlantHatch/Music_Platform.fbx
+[20:41:06.040430] [Import] [info] (th=427100) Imported scene tree:
+name: "RootNode"
+
+	name: "Platform_forMusic"
+	numMeshes: 1
+	 addr: "0x7fa6650f3c00"
+	 name: "Cube.001"
+	 numVertices: "710"
+	 numFaces: "474"
+	
+	
+	name: "Stul"
+	numMeshes: 1
+	 addr: "0x7fa6651bfe00"
+	 name: "Cube.002"
+	 numVertices: "186"
+	 numFaces: "142"
+	
+	
+	name: "Cube.005"
+	numMeshes: 1
+	 addr: "0x7fa6651ccc00"
+	 name: "Cube.004"
+	 numVertices: "488"
+	 numFaces: "280"
+	
+	
+
+[20:41:06.040439] [Import] [info] (th=427100) File loaded successfully
+[20:41:06.040440] [Import] [info] (th=427100) Meshes count: 3
+[20:41:06.040441] [Import] [info] (th=427100) Materials count: 1
+[20:41:06.040642] [Import] [warning] (th=427100) Texture not found: /Users/oleg/Dropbox/Запросы файлов/MANU-Assets 1.1.0/prp_PlantHatch/C:/Users/Grigorii/Dropbox/MANU-Assets/TrimTileTextures_01/TrimBLueMetal_01_N.png
+[20:41:06.040658] [Import] [info] (th=427100) Textures count (imported): 1
+[20:42:56.501001] [Import] [info] (th=427100) Importing from /Users/oleg/Dropbox/Запросы файлов/MANU-Assets 1.1.0/prp_PlantHatch/Mussic_Spikes.fbx
+[20:42:56.504945] [Import] [info] (th=427100) Imported scene tree:
+name: "RootNode"
+
+	name: "Cube.002"
+	numMeshes: 1
+	 addr: "0x7fa66417b400"
+	 name: "Cube.001"
+	 numVertices: "380"
+	 numFaces: "228"
+	
+	
+	name: "Spikes"
+	numMeshes: 1
+	 addr: "0x7fa664186000"
+	 name: "Cube.002"
+	 numVertices: "2164"
+	 numFaces: "1052"
+	
+	
+	name: "Spikes.001"
+	numMeshes: 1
+	 addr: "0x7fa6641ab400"
+	 name: "Cube.036"
+	 numVertices: "1090"
+	 numFaces: "530"
+	
+	
+
+[20:42:56.504953] [Import] [info] (th=427100) File loaded successfully
+[20:42:56.504955] [Import] [info] (th=427100) Meshes count: 3
+[20:42:56.504956] [Import] [info] (th=427100) Materials count: 1
+[20:42:56.505123] [Import] [info] (th=427100) Textures count (imported): 2
+[20:44:49.133080] [Import] [info] (th=427100) Importing from /Users/oleg/Dropbox/Запросы файлов/MANU-Assets 1.1.0/prp_PlantHatch/Music_asset.fbx
+[20:44:49.138021] [Import] [info] (th=427100) Imported scene tree:
+name: "RootNode"
+
+	name: "Piano"
+	numMeshes: 1
+	 addr: "0x7fa663c4b000"
+	 name: "Cube.027"
+	 numVertices: "210"
+	 numFaces: "144"
+	
+	
+	name: "Speaker"
+	numMeshes: 1
+	 addr: "0x7fa663c61400"
+	 name: "Cube.030"
+	 numVertices: "1378"
+	 numFaces: "1478"
+	
+	
+	name: "Speaker2"
+	numMeshes: 1
+	 addr: "0x7fa663c79a00"
+	 name: "Cube.031"
+	 numVertices: "1378"
+	 numFaces: "1478"
+	
+	
+
+[20:44:49.138029] [Import] [info] (th=427100) File loaded successfully
+[20:44:49.138031] [Import] [info] (th=427100) Meshes count: 3
+[20:44:49.138032] [Import] [info] (th=427100) Materials count: 1
+[20:44:49.138183] [Import] [info] (th=427100) Textures count (imported): 1
