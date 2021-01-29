@@ -1,0 +1,164 @@
+[
+    {
+        "@class": "BaseNode",
+        "object3D": {
+            "@class": "BaseObject3D",
+            "id": {
+                "uuid": "6ACB2492-21C4-453A-81A3-FFBEE79E0DBD"
+            },
+            "name": "Day",
+            "enabled": true,
+            "visible": true,
+            "hitVisible": true,
+            "colliders": [
+                {
+                    "@class": "BaseComponentCollider",
+                    "colliderId": {
+                        "uuid": "EB93B1A7-1D6D-496E-A31C-77865E692214"
+                    }
+                }
+            ],
+            "geometry": {
+                "@class": "BaseComponentGeometry",
+                "meshId": {
+                    "uuid": "13D0046A-7F2B-4837-A74A-846A801F0EB6"
+                },
+                "static": false,
+                "shadowCast": false,
+                "shadowReceive": false
+            },
+            "material": {
+                "@class": "BaseComponentMaterial",
+                "materialId": {
+                    "uuid": "D575FB41-6811-45BE-B024-22D83F955023"
+                },
+                "mapsStates": 127
+            },
+            "rigidBody": {
+                "@class": "BaseComponentPhysBody",
+                "rigidBodyId": {
+                    "uuid": "5C057661-ABF3-48AA-AA60-6801B6502C79"
+                },
+                "isEnabled": true
+            },
+            "transform": {
+                "@class": "BaseComponentTransformable",
+                "localTransforms": {
+                    "values": [
+                        -2.034717082977295,
+                        -0.0,
+                        -0.24983207881450654,
+                        0.0,
+                        0.0,
+                        2.0499982833862306,
+                        -0.0,
+                        0.0,
+                        0.24983234703540803,
+                        0.0,
+                        -2.034719228744507,
+                        0.0,
+                        0.0,
+                        0.0,
+                        0.0,
+                        1.0
+                    ]
+                },
+                "globalTransforms": {
+                    "values": [
+                        81.88756561279297,
+                        -0.000001508944819761382,
+                        -4.2915449142456059,
+                        0.0,
+                        0.0000021500516140804395,
+                        81.99993133544922,
+                        0.000012193540896987543,
+                        0.0,
+                        4.2915496826171879,
+                        -0.000012289369806239847,
+                        81.88764953613281,
+                        0.0,
+                        0.0,
+                        -395.0509338378906,
+                        -650.9853515625,
+                        1.0
+                    ]
+                }
+            },
+            "metadata": {
+                "importedIdentifier": "Skybox",
+                "importedName": "Skybox",
+                "isBone": false
+            }
+        },
+        "children": [
+            "E87210B1-E897-4DB8-A79A-20F8AE30A4D8"
+        ]
+    },
+    {
+        "@class": "BaseNode",
+        "object3D": {
+            "@class": "BaseObject3D",
+            "id": {
+                "uuid": "E87210B1-E897-4DB8-A79A-20F8AE30A4D8"
+            },
+            "name": "Rotate",
+            "enabled": true,
+            "visible": true,
+            "hitVisible": true,
+            "timeline": {
+                "@class": "BaseComponentTimeline",
+                "timelineId": {
+                    "uuid": "84F1BA40-3E91-4649-9761-EF2CF96B86B3"
+                }
+            },
+            "transform": {
+                "@class": "BaseComponentTransformable",
+                "localTransforms": {
+                    "values": [
+                        1.0,
+                        0.0,
+                        0.0,
+                        0.0,
+                        0.0,
+                        1.0,
+                        0.0,
+                        0.0,
+                        0.0,
+                        0.0,
+                        1.0,
+                        0.0,
+                        0.0,
+                        0.0,
+                        0.0,
+                        1.0
+                    ]
+                },
+                "globalTransforms": {
+                    "values": [
+                        81.88756561279297,
+                        -0.000001508944819761382,
+                        -4.2915449142456059,
+                        0.0,
+                        0.0000021500516140804395,
+                        81.99993133544922,
+                        0.000012193540896987543,
+                        0.0,
+                        4.2915496826171879,
+                        -0.000012289369806239847,
+                        81.88764953613281,
+                        0.0,
+                        0.0,
+                        -395.0509338378906,
+                        -650.9853515625,
+                        1.0
+                    ]
+                }
+            },
+            "metadata": {
+                "importedIdentifier": "",
+                "importedName": "",
+                "isBone": false
+            }
+        }
+    }
+]
