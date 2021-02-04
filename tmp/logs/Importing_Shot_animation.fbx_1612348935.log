@@ -1,0 +1,142 @@
+[13:42:15.710888] [Import] [info] (th=50940) Importing from /Users/oleg/Temp/Shot_animation.fbx
+[13:42:15.720406] [Import] [info] (th=50940) Imported scene tree:
+name: "RootNode"
+
+	name: "Armature"
+	
+		name: "mixamorig_Hips"
+		
+			name: "mixamorig_Spine"
+			
+				name: "mixamorig_Spine1"
+				
+					name: "mixamorig_Spine2"
+					
+						name: "mixamorig_Neck"
+						
+							name: "mixamorig_Head"
+							
+								name: "mixamorig_HeadTop_End"
+								
+						name: "mixamorig_LeftShoulder"
+						
+							name: "mixamorig_LeftArm"
+							
+								name: "mixamorig_LeftForeArm"
+								
+									name: "mixamorig_LeftHand"
+									
+										name: "mixamorig_LeftHandThumb1"
+										
+											name: "mixamorig_LeftHandThumb2"
+											
+												name: "mixamorig_LeftHandThumb3"
+												
+													name: "mixamorig_LeftHandThumb4"
+													
+										name: "mixamorig_LeftHandIndex1"
+										
+											name: "mixamorig_LeftHandIndex2"
+											
+												name: "mixamorig_LeftHandIndex3"
+												
+													name: "mixamorig_LeftHandIndex4"
+													
+										name: "mixamorig_LeftHandMiddle1"
+										
+											name: "mixamorig_LeftHandMiddle2"
+											
+												name: "mixamorig_LeftHandMiddle3"
+												
+													name: "mixamorig_LeftHandMiddle4"
+													
+						name: "mixamorig_RightShoulder"
+						
+							name: "mixamorig_RightArm"
+							
+								name: "mixamorig_RightForeArm"
+								
+									name: "mixamorig_RightHand"
+									
+										name: "mixamorig_RightHandThumb1"
+										
+											name: "mixamorig_RightHandThumb2"
+											
+												name: "mixamorig_RightHandThumb3"
+												
+													name: "mixamorig_RightHandThumb4"
+													
+										name: "mixamorig_RightHandIndex1"
+										
+											name: "mixamorig_RightHandIndex2"
+											
+												name: "mixamorig_RightHandIndex3"
+												
+													name: "mixamorig_RightHandIndex4"
+													
+										name: "mixamorig_RightHandMiddle1"
+										
+											name: "mixamorig_RightHandMiddle2"
+											
+												name: "mixamorig_RightHandMiddle3"
+												
+													name: "mixamorig_RightHandMiddle4"
+													
+			name: "mixamorig_LeftUpLeg"
+			
+				name: "mixamorig_LeftLeg"
+				
+					name: "mixamorig_LeftFoot"
+					
+						name: "mixamorig_LeftToeBase"
+						
+							name: "mixamorig_LeftToe_End"
+							
+			name: "mixamorig_RightUpLeg"
+			
+				name: "mixamorig_RightLeg"
+				
+					name: "mixamorig_RightFoot"
+					
+						name: "mixamorig_RightToeBase"
+						
+							name: "mixamorig_RightToe_End"
+							
+
+[13:42:15.720418] [Import] [info] (th=50940) File loaded successfully
+[13:42:15.720421] [Import] [info] (th=50940) Meshes count: 0
+[13:42:15.720422] [Import] [info] (th=50940) Materials count: 0
+[13:44:27.909279] [Import] [info] (th=50940) Importing from /Users/oleg/Dropbox/Запросы файлов/MANU-Assets 1.1.0/GuitarGun/Gun_Guitar.fbx
+[13:44:27.914448] [Import] [info] (th=50940) Imported scene tree:
+name: "RootNode"
+
+	name: "GuitarGun"
+	numMeshes: 1
+	 addr: "0x7fc420623e00"
+	 name: "Cube.014"
+	 numVertices: "2749"
+	 numFaces: "2304"
+	
+	
+
+[13:44:27.914455] [Import] [info] (th=50940) File loaded successfully
+[13:44:27.914457] [Import] [info] (th=50940) Meshes count: 1
+[13:44:27.914461] [Import] [info] (th=50940) Materials count: 1
+[13:44:27.914736] [Import] [info] (th=50940) Textures count (imported): 2
+[13:53:06.816991] [Import] [info] (th=50940) Importing from /Users/oleg/Dropbox/Запросы файлов/MANU-Assets 1.1.0/GuitarGun/Gun_Guitar.fbx
+[13:53:06.821561] [Import] [info] (th=50940) Imported scene tree:
+name: "RootNode"
+
+	name: "GuitarGun"
+	numMeshes: 1
+	 addr: "0x7fc428c7e600"
+	 name: "Cube.014"
+	 numVertices: "2749"
+	 numFaces: "2304"
+	
+	
+
+[13:53:06.821570] [Import] [info] (th=50940) File loaded successfully
+[13:53:06.821572] [Import] [info] (th=50940) Meshes count: 1
+[13:53:06.821573] [Import] [info] (th=50940) Materials count: 1
+[13:53:06.821756] [Import] [info] (th=50940) Textures count (imported): 2

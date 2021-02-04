@@ -1,0 +1,17 @@
+[15:00:25.254357] [Import] [info] (th=87328) Importing from /Users/oleg/Dropbox/Запросы файлов/MANU-Assets 1.1.0/Minion_Grenade/Minion_Grenade.fbx
+[15:00:25.258999] [Import] [info] (th=87328) Imported scene tree:
+name: "RootNode"
+
+	name: "Circle.001"
+	numMeshes: 1
+	 addr: "0x7fef54a8d600"
+	 name: "Circle.004"
+	 numVertices: "629"
+	 numFaces: "630"
+	
+	
+
+[15:00:25.259017] [Import] [info] (th=87328) File loaded successfully
+[15:00:25.259022] [Import] [info] (th=87328) Meshes count: 1
+[15:00:25.259024] [Import] [info] (th=87328) Materials count: 1
+[15:00:25.259158] [Import] [info] (th=87328) Textures count (imported): 0

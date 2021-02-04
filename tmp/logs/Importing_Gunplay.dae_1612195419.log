@@ -1,0 +1,114 @@
+[19:03:39.549409] [Import] [info] (th=305891) Importing from /Users/oleg/Downloads/Gunplay.dae
+[19:03:39.578489] [Import] [info] (th=305891) Imported scene tree:
+name: "RootNode"
+
+	name: "Sniper_01"
+	numMeshes: 1
+	 addr: "0x7fbe205b3a00"
+	 name: "Sniper_01Mesh"
+	 numVertices: "4418"
+	 numFaces: "7138"
+	
+	
+	name: "mixamorig_Hips"
+	
+		name: "mixamorig_Spine"
+		
+			name: "mixamorig_Spine1"
+			
+				name: "mixamorig_Spine2"
+				
+					name: "mixamorig_Neck"
+					
+						name: "mixamorig_Head"
+						
+							name: "mixamorig_HeadTop_End"
+							
+					name: "mixamorig_LeftShoulder"
+					
+						name: "mixamorig_LeftArm"
+						
+							name: "mixamorig_LeftForeArm"
+							
+								name: "mixamorig_LeftHand"
+								
+									name: "mixamorig_LeftHandThumb1"
+									
+										name: "mixamorig_LeftHandThumb2"
+										
+											name: "mixamorig_LeftHandThumb3"
+											
+												name: "mixamorig_LeftHandThumb4"
+												
+									name: "mixamorig_LeftHandIndex1"
+									
+										name: "mixamorig_LeftHandIndex2"
+										
+											name: "mixamorig_LeftHandIndex3"
+											
+												name: "mixamorig_LeftHandIndex4"
+												
+									name: "mixamorig_LeftHandMiddle1"
+									
+										name: "mixamorig_LeftHandMiddle2"
+										
+											name: "mixamorig_LeftHandMiddle3"
+											
+												name: "mixamorig_LeftHandMiddle4"
+												
+					name: "mixamorig_RightShoulder"
+					
+						name: "mixamorig_RightArm"
+						
+							name: "mixamorig_RightForeArm"
+							
+								name: "mixamorig_RightHand"
+								
+									name: "mixamorig_RightHandThumb1"
+									
+										name: "mixamorig_RightHandThumb2"
+										
+											name: "mixamorig_RightHandThumb3"
+											
+												name: "mixamorig_RightHandThumb4"
+												
+									name: "mixamorig_RightHandIndex1"
+									
+										name: "mixamorig_RightHandIndex2"
+										
+											name: "mixamorig_RightHandIndex3"
+											
+												name: "mixamorig_RightHandIndex4"
+												
+									name: "mixamorig_RightHandMiddle1"
+									
+										name: "mixamorig_RightHandMiddle2"
+										
+											name: "mixamorig_RightHandMiddle3"
+											
+												name: "mixamorig_RightHandMiddle4"
+												
+		name: "mixamorig_LeftUpLeg"
+		
+			name: "mixamorig_LeftLeg"
+			
+				name: "mixamorig_LeftFoot"
+				
+					name: "mixamorig_LeftToeBase"
+					
+						name: "mixamorig_LeftToe_End"
+						
+		name: "mixamorig_RightUpLeg"
+		
+			name: "mixamorig_RightLeg"
+			
+				name: "mixamorig_RightFoot"
+				
+					name: "mixamorig_RightToeBase"
+					
+						name: "mixamorig_RightToe_End"
+						
+
+[19:03:39.578503] [Import] [info] (th=305891) File loaded successfully
+[19:03:39.578507] [Import] [info] (th=305891) Meshes count: 1
+[19:03:39.578509] [Import] [info] (th=305891) Materials count: 1

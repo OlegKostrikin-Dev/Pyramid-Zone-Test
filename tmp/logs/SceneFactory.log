@@ -1,3 +1,12 @@
 [10:13:21.941620] [SceneFactory] [info] (th=694084) GhostObject is created: id: 9FA9B470-D1EB-42B7-9758-099B657D6114
 [12:56:41.573057] [SceneFactory] [info] (th=726136) Box is created: id: 2A0016AE-8B20-4981-9E0D-1415F7AD2D4F
 [19:22:53.336145] [SceneFactory] [info] (th=1814747) GhostObject is created: id: 8580A68C-5C5B-4B27-A0B7-96BE42658FE7
+[16:12:41.315756] [SceneFactory] [info] (th=87328) GhostObject is created: id: 3D99656E-929B-4034-8AD7-B54909151088
+[18:40:44.186691] [SceneFactory] [info] (th=305891) GhostObject is created: id: 7B176F90-E3F7-4665-9F7C-0AACE12CD903
+[22:44:59.732611] [SceneFactory] [info] (th=4529) GhostObject is created: id: 200866DB-42CE-4E3C-A882-59CF7A4E93B6
+[23:32:05.678466] [SceneFactory] [info] (th=110600) GhostObject is created: id: B62B3D48-9A78-41A2-BE64-82EAC2D738C0
+[10:53:39.930153] [SceneFactory] [info] (th=20656) GhostObject is created: id: B62C9481-CDF7-4AE0-A3B9-3F4CE6ABA75D
+[13:19:49.308852] [SceneFactory] [info] (th=184114) Box is created: id: 825036B7-9548-407F-815C-6D02C682275F
+[17:17:24.684396] [SceneFactory] [info] (th=747550) Box is created: id: B825285D-4B1A-4F4D-9A59-E4877B73E123
+[18:39:39.627230] [SceneFactory] [info] (th=815051) Plane is created: id: C23A7A26-7459-4D0D-8417-9467C7E3A387
+[18:55:34.986564] [SceneFactory] [info] (th=815051) GhostObject is created: id: EC1B5CB3-F00D-45AA-AEF6-689D49170A5A

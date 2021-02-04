@@ -1,0 +1,291 @@
+[15:38:10.564264] [Import] [info] (th=87328) Importing from /Users/oleg/Downloads/Guitar Playing.dae
+[15:38:10.612761] [Import] [info] (th=87328) Imported scene tree:
+name: "RootNode"
+
+	name: "Sniper_01"
+	numMeshes: 1
+	 addr: "0x7fef46108e00"
+	 name: "Sniper_01Mesh"
+	 numVertices: "4418"
+	 numFaces: "7138"
+	
+	
+	name: "mixamorig_Hips"
+	
+		name: "mixamorig_Spine"
+		
+			name: "mixamorig_Spine1"
+			
+				name: "mixamorig_Spine2"
+				
+					name: "mixamorig_Neck"
+					
+						name: "mixamorig_Head"
+						
+							name: "mixamorig_HeadTop_End"
+							
+					name: "mixamorig_LeftShoulder"
+					
+						name: "mixamorig_LeftArm"
+						
+							name: "mixamorig_LeftForeArm"
+							
+								name: "mixamorig_LeftHand"
+								
+									name: "mixamorig_LeftHandThumb1"
+									
+										name: "mixamorig_LeftHandThumb2"
+										
+											name: "mixamorig_LeftHandThumb3"
+											
+												name: "mixamorig_LeftHandThumb4"
+												
+									name: "mixamorig_LeftHandIndex1"
+									
+										name: "mixamorig_LeftHandIndex2"
+										
+											name: "mixamorig_LeftHandIndex3"
+											
+												name: "mixamorig_LeftHandIndex4"
+												
+									name: "mixamorig_LeftHandMiddle1"
+									
+										name: "mixamorig_LeftHandMiddle2"
+										
+											name: "mixamorig_LeftHandMiddle3"
+											
+												name: "mixamorig_LeftHandMiddle4"
+												
+					name: "mixamorig_RightShoulder"
+					
+						name: "mixamorig_RightArm"
+						
+							name: "mixamorig_RightForeArm"
+							
+								name: "mixamorig_RightHand"
+								
+									name: "mixamorig_RightHandThumb1"
+									
+										name: "mixamorig_RightHandThumb2"
+										
+											name: "mixamorig_RightHandThumb3"
+											
+												name: "mixamorig_RightHandThumb4"
+												
+									name: "mixamorig_RightHandIndex1"
+									
+										name: "mixamorig_RightHandIndex2"
+										
+											name: "mixamorig_RightHandIndex3"
+											
+												name: "mixamorig_RightHandIndex4"
+												
+									name: "mixamorig_RightHandMiddle1"
+									
+										name: "mixamorig_RightHandMiddle2"
+										
+											name: "mixamorig_RightHandMiddle3"
+											
+												name: "mixamorig_RightHandMiddle4"
+												
+		name: "mixamorig_LeftUpLeg"
+		
+			name: "mixamorig_LeftLeg"
+			
+				name: "mixamorig_LeftFoot"
+				
+					name: "mixamorig_LeftToeBase"
+					
+						name: "mixamorig_LeftToe_End"
+						
+		name: "mixamorig_RightUpLeg"
+		
+			name: "mixamorig_RightLeg"
+			
+				name: "mixamorig_RightFoot"
+				
+					name: "mixamorig_RightToeBase"
+					
+						name: "mixamorig_RightToe_End"
+						
+
+[15:38:10.612780] [Import] [info] (th=87328) File loaded successfully
+[15:38:10.612783] [Import] [info] (th=87328) Meshes count: 1
+[15:38:10.612786] [Import] [info] (th=87328) Materials count: 1
+[15:38:10.612927] [Import] [info] (th=87328) Textures count (imported): 0
+[15:51:35.564791] [Import] [info] (th=87328) Importing from /Users/oleg/Downloads/bonnies-guitar-help-wanted/source/BonniesGuitarHW.fbx
+[15:51:35.570219] [Import] [info] (th=87328) Imported scene tree:
+name: "RootNode"
+
+	name: "Armature"
+	
+		name: "guitar"
+		
+			name: "guitar_end"
+			
+	name: "26_heads_0.3_0_0"
+	numMeshes: 1
+	 addr: "0x7fef25902400"
+	 name: "26_heads_0.3_0_0"
+	 numVertices: "1201"
+	 numFaces: "1081"
+	
+	
+	name: "26_strings_0.2_0_0"
+	numMeshes: 1
+	 addr: "0x7fef2591f600"
+	 name: "26_strings_0.2_0_0"
+	 numVertices: "50"
+	 numFaces: "40"
+	
+	
+	name: "40_guitar_0.8_0_0"
+	numMeshes: 1
+	 addr: "0x7fef2594b000"
+	 name: "40_guitar_0.8_0_0"
+	 numVertices: "937"
+	 numFaces: "708"
+	
+	
+	name: "Light"
+	
+	name: "Camera"
+	
+
+[15:51:35.570227] [Import] [info] (th=87328) File loaded successfully
+[15:51:35.570229] [Import] [info] (th=87328) Meshes count: 3
+[15:51:35.570231] [Import] [info] (th=87328) Materials count: 3
+[15:51:35.570350] [Import] [warning] (th=87328) Texture not found: /Users/oleg/Downloads/bonnies-guitar-help-wanted/source/guitar_d.png
+[15:51:35.570366] [Import] [info] (th=87328) Textures count (imported): 0
+[16:30:06.693497] [Import] [info] (th=87328) Importing from /Users/oleg/Downloads/Guitar Playing 2.dae
+[16:30:06.720867] [Import] [info] (th=87328) Imported scene tree:
+name: "RootNode"
+
+	name: "Sniper_01"
+	numMeshes: 1
+	 addr: "0x7ff0155a5000"
+	 name: "Sniper_01Mesh"
+	 numVertices: "4418"
+	 numFaces: "7138"
+	
+	
+	name: "mixamorig_Hips"
+	
+		name: "mixamorig_Spine"
+		
+			name: "mixamorig_Spine1"
+			
+				name: "mixamorig_Spine2"
+				
+					name: "mixamorig_Neck"
+					
+						name: "mixamorig_Head"
+						
+							name: "mixamorig_HeadTop_End"
+							
+					name: "mixamorig_LeftShoulder"
+					
+						name: "mixamorig_LeftArm"
+						
+							name: "mixamorig_LeftForeArm"
+							
+								name: "mixamorig_LeftHand"
+								
+									name: "mixamorig_LeftHandThumb1"
+									
+										name: "mixamorig_LeftHandThumb2"
+										
+											name: "mixamorig_LeftHandThumb3"
+											
+												name: "mixamorig_LeftHandThumb4"
+												
+									name: "mixamorig_LeftHandIndex1"
+									
+										name: "mixamorig_LeftHandIndex2"
+										
+											name: "mixamorig_LeftHandIndex3"
+											
+												name: "mixamorig_LeftHandIndex4"
+												
+									name: "mixamorig_LeftHandMiddle1"
+									
+										name: "mixamorig_LeftHandMiddle2"
+										
+											name: "mixamorig_LeftHandMiddle3"
+											
+												name: "mixamorig_LeftHandMiddle4"
+												
+					name: "mixamorig_RightShoulder"
+					
+						name: "mixamorig_RightArm"
+						
+							name: "mixamorig_RightForeArm"
+							
+								name: "mixamorig_RightHand"
+								
+									name: "mixamorig_RightHandThumb1"
+									
+										name: "mixamorig_RightHandThumb2"
+										
+											name: "mixamorig_RightHandThumb3"
+											
+												name: "mixamorig_RightHandThumb4"
+												
+									name: "mixamorig_RightHandIndex1"
+									
+										name: "mixamorig_RightHandIndex2"
+										
+											name: "mixamorig_RightHandIndex3"
+											
+												name: "mixamorig_RightHandIndex4"
+												
+									name: "mixamorig_RightHandMiddle1"
+									
+										name: "mixamorig_RightHandMiddle2"
+										
+											name: "mixamorig_RightHandMiddle3"
+											
+												name: "mixamorig_RightHandMiddle4"
+												
+		name: "mixamorig_LeftUpLeg"
+		
+			name: "mixamorig_LeftLeg"
+			
+				name: "mixamorig_LeftFoot"
+				
+					name: "mixamorig_LeftToeBase"
+					
+						name: "mixamorig_LeftToe_End"
+						
+		name: "mixamorig_RightUpLeg"
+		
+			name: "mixamorig_RightLeg"
+			
+				name: "mixamorig_RightFoot"
+				
+					name: "mixamorig_RightToeBase"
+					
+						name: "mixamorig_RightToe_End"
+						
+
+[16:30:06.720876] [Import] [info] (th=87328) File loaded successfully
+[16:30:06.720882] [Import] [info] (th=87328) Meshes count: 1
+[16:30:06.720883] [Import] [info] (th=87328) Materials count: 1
+[16:30:06.720928] [Import] [info] (th=87328) Textures count (imported): 0
+[16:44:48.489462] [Import] [info] (th=87328) Importing from /Users/oleg/Downloads/guitartexturingchallenge-white-guitar/source/model/model.dae
+[16:44:48.943681] [Import] [info] (th=87328) Imported scene tree:
+name: "Gibson_gitar_uv_unwrapped.obj"
+
+	name: "gitar_2"
+	numMeshes: 1
+	 addr: "0x7ff0054c9400"
+	 name: "meshId0_name"
+	 numVertices: "139293"
+	 numFaces: "252946"
+	
+	
+
+[16:44:48.943693] [Import] [info] (th=87328) File loaded successfully
+[16:44:48.943699] [Import] [info] (th=87328) Meshes count: 1
+[16:44:48.943700] [Import] [info] (th=87328) Materials count: 1
+[16:44:48.943751] [Import] [info] (th=87328) Textures count (imported): 0

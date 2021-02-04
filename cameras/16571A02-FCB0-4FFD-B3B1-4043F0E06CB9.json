@@ -1,1 +1,1 @@
-{"@class":"Camera","id":{"uuid":"16571A02-FCB0-4FFD-B3B1-4043F0E06CB9"},"name":"MainCamera","cameraType":"perspective","zNear":0.10000000149011612,"zFar":9999.0,"fov":108.0,"aspectRatio":1.7808696031570435}
+{"@class":"Camera","id":{"uuid":"16571A02-FCB0-4FFD-B3B1-4043F0E06CB9"},"name":"MainCamera","cameraType":"perspective","zNear":0.10000000149011612,"zFar":9999.0,"fov":108.1408462524414,"aspectRatio":1.7808696031570435}

@@ -1,0 +1,16 @@
+[10:37:14.547525] [Import] [info] (th=20656) Importing from /Users/oleg/Dropbox/Запросы файлов/MANU-Assets 1.1.0/prp_Teleport/Teleport_RINGS_2sided.fbx
+[10:37:14.549598] [Import] [info] (th=20656) Imported scene tree:
+name: "RootNode"
+
+	name: "Fx"
+	numMeshes: 1
+	 addr: "0x7fca418ea400"
+	 name: "Mesh.002"
+	 numVertices: "126"
+	 numFaces: "160"
+	
+	
+
+[10:37:14.549605] [Import] [info] (th=20656) File loaded successfully
+[10:37:14.549608] [Import] [info] (th=20656) Meshes count: 1
+[10:37:14.549609] [Import] [info] (th=20656) Materials count: 1
