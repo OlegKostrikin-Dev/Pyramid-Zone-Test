@@ -1,0 +1,66 @@
+{
+    "@class": "CollisionTrigger",
+    "id": {
+        "uuid": "C2515016-06BE-4317-ADDB-215FAE428974"
+    },
+    "ownerScriptId": {
+        "uuid": "D0C54749-D877-4BB5-876E-E7C632C5B459"
+    },
+    "logicOperation": 1,
+    "resultType": 0,
+    "isInverted": false,
+    "eventType": "inside",
+    "targetBindingLink": {
+        "@class": "BindingLink",
+        "targetId": {
+            "uuid": "C5DD6F6F-BDA7-4E97-BB57-C70EF3125135"
+        },
+        "targetRelativeAddress": {
+            "@class": "NodeRelativeAddressBase",
+            "index": 7,
+            "name": "Torturer Pistol 01",
+            "subaddress": {
+                "@class": "NodeRelativeAddressBase",
+                "index": 0,
+                "name": "Shooter",
+                "subaddress": {
+                    "@class": "NodeRelativeAddressBase",
+                    "index": 0,
+                    "name": "Sensors",
+                    "subaddress": {
+                        "@class": "NodeRelativeAddressBase",
+                        "index": 4,
+                        "name": "Body Torturer P 01"
+                    }
+                }
+            }
+        }
+    },
+    "zoneBindingLink": {
+        "@class": "BindingLink",
+        "targetId": {
+            "uuid": "C5DD6F6F-BDA7-4E97-BB57-C70EF3125135"
+        },
+        "targetRelativeAddress": {
+            "@class": "NodeRelativeAddressBase",
+            "index": 7,
+            "name": "Torturer Pistol 01",
+            "subaddress": {
+                "@class": "NodeRelativeAddressBase",
+                "index": 0,
+                "name": "Shooter",
+                "subaddress": {
+                    "@class": "NodeRelativeAddressBase",
+                    "index": 0,
+                    "name": "Sensors",
+                    "subaddress": {
+                        "@class": "NodeRelativeAddressBase",
+                        "index": 4,
+                        "name": "Body Torturer P 01"
+                    }
+                }
+            }
+        }
+    },
+    "allowed": false
+}

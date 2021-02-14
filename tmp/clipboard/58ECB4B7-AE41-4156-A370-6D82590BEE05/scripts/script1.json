@@ -1,0 +1,40 @@
+{
+    "@class": "AnimationScript",
+    "id": {
+        "uuid": "48719FBF-4FBB-42D2-91A0-3A88CD7F7B14"
+    },
+    "name": "5.1 Landing Allowed",
+    "enableOnAwake": false,
+    "OwnerLink": {
+        "@class": "BindingLink",
+        "targetId": {
+            "uuid": "E021231A-B3D7-4853-A9AD-26503ACF8E6E"
+        },
+        "targetRelativeAddress": {
+            "@class": "NodeRelativeAddressBase",
+            "index": 7,
+            "name": "Torturer Pistol 01",
+            "subaddress": {
+                "@class": "NodeRelativeAddressBase",
+                "index": 1,
+                "name": "State Machine",
+                "subaddress": {
+                    "@class": "NodeRelativeAddressBase",
+                    "index": 6,
+                    "name": "5. Floating",
+                    "subaddress": {
+                        "@class": "NodeRelativeAddressBase",
+                        "index": 1,
+                        "name": "5.1 Landing Allowed"
+                    }
+                }
+            }
+        }
+    },
+    "animation": {
+        "uuid": "E6C0BB24-04C1-4686-8F8F-04FDFC236C39"
+    },
+    "AnimationType": "object3D",
+    "is_imported": false,
+    "isEnabled": true
+}
