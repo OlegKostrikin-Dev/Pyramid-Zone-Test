@@ -1,0 +1,40 @@
+{
+    "@class": "AnimationScript",
+    "id": {
+        "uuid": "A5872F98-B980-4D84-9973-1681DB981A4F"
+    },
+    "name": "Torturer Front",
+    "enableOnAwake": false,
+    "OwnerLink": {
+        "@class": "BindingLink",
+        "targetId": {
+            "uuid": "CD81E220-1EAF-4110-B713-057118346563"
+        },
+        "targetRelativeAddress": {
+            "@class": "NodeRelativeAddressBase",
+            "index": 7,
+            "name": "Torturer Pistol 01",
+            "subaddress": {
+                "@class": "NodeRelativeAddressBase",
+                "index": 1,
+                "name": "Shooter",
+                "subaddress": {
+                    "@class": "NodeRelativeAddressBase",
+                    "index": 0,
+                    "name": "Sensors",
+                    "subaddress": {
+                        "@class": "NodeRelativeAddressBase",
+                        "index": 6,
+                        "name": "Torturer Front"
+                    }
+                }
+            }
+        }
+    },
+    "animation": {
+        "uuid": "507DDE4B-B6C6-440F-BD85-C27E09A45D40"
+    },
+    "AnimationType": "object3D",
+    "is_imported": false,
+    "isEnabled": true
+}

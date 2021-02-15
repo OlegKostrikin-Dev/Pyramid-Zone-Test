@@ -1,0 +1,170 @@
+{
+    "@class": "TimeLineScript",
+    "id": {
+        "uuid": "10B61C5A-D7CB-4642-B0E8-4DBE04A8E851"
+    },
+    "name": "TimeLineScript",
+    "enableOnAwake": false,
+    "loop": false,
+    "jumpToFirstFrameAtEnd": false,
+    "speed": 1.0,
+    "weight": 1.0,
+    "loopStartTime": 0,
+    "loopDuration": 0,
+    "is_imported": false,
+    "type": "user",
+    "scripts": {
+        "@class": "StdListRuntimeScript",
+        "list": [
+            {
+                "@class": "AnimationScript",
+                "id": {
+                    "uuid": "C2D22814-135E-4C5C-969A-4C3503B0F315"
+                },
+                "name": "Active State",
+                "enableOnAwake": false,
+                "OwnerLink": {
+                    "@class": "BindingLink",
+                    "targetId": {
+                        "uuid": "CEEDBD4A-308D-4C98-9EC1-F647A91B9920"
+                    },
+                    "targetRelativeAddress": {
+                        "@class": "NodeRelativeAddressBase",
+                        "index": 7,
+                        "name": "Torturer Pistol 01",
+                        "subaddress": {
+                            "@class": "NodeRelativeAddressBase",
+                            "index": 0,
+                            "name": "State Machine",
+                            "subaddress": {
+                                "@class": "NodeRelativeAddressBase",
+                                "index": 0,
+                                "name": "Active State"
+                            }
+                        }
+                    }
+                },
+                "animation": {
+                    "uuid": "94D45854-2236-4C24-A0CC-AF988B63EDF7"
+                },
+                "AnimationType": "object3D",
+                "is_imported": false,
+                "isEnabled": true
+            }
+        ]
+    },
+    "triggers": [
+        {
+            "@class": "CollisionTrigger",
+            "id": {
+                "uuid": "7F20468C-F4FB-45B5-ACF0-221260975968"
+            },
+            "ownerScriptId": {
+                "uuid": "10B61C5A-D7CB-4642-B0E8-4DBE04A8E851"
+            },
+            "logicOperation": 1,
+            "resultType": 0,
+            "isInverted": false,
+            "eventType": "inside",
+            "targetBindingLink": {
+                "@class": "BindingLink",
+                "targetId": {
+                    "uuid": "C5DD6F6F-BDA7-4E97-BB57-C70EF3125135"
+                }
+            },
+            "zoneBindingLink": {
+                "@class": "BindingLink",
+                "targetId": {
+                    "uuid": "C5DD6F6F-BDA7-4E97-BB57-C70EF3125135"
+                }
+            },
+            "allowed": false
+        },
+        {
+            "@class": "CollisionTrigger",
+            "id": {
+                "uuid": "FBBED821-70B5-4937-A9C5-A706A33A04E3"
+            },
+            "ownerScriptId": {
+                "uuid": "75072772-91D5-4E01-BA42-48F5A68F8652"
+            },
+            "logicOperation": 0,
+            "resultType": 0,
+            "isInverted": false,
+            "eventType": "in",
+            "targetBindingLink": {
+                "@class": "BindingLink",
+                "targetId": {
+                    "uuid": "5658370C-7283-4434-AA53-BEE1C0050603"
+                },
+                "targetRelativeAddress": {
+                    "@class": "NodeRelativeAddressBase",
+                    "index": 7,
+                    "name": "Torturer Pistol 01",
+                    "subaddress": {
+                        "@class": "NodeRelativeAddressBase",
+                        "index": 1,
+                        "name": "Shooter",
+                        "subaddress": {
+                            "@class": "NodeRelativeAddressBase",
+                            "index": 0,
+                            "name": "Sensors",
+                            "subaddress": {
+                                "@class": "NodeRelativeAddressBase",
+                                "index": 11,
+                                "name": "Death System",
+                                "subaddress": {
+                                    "@class": "NodeRelativeAddressBase",
+                                    "index": 0,
+                                    "name": "Death-1",
+                                    "subaddress": {
+                                        "@class": "NodeRelativeAddressBase",
+                                        "index": 0,
+                                        "name": "Death-1"
+                                    }
+                                }
+                            }
+                        }
+                    }
+                }
+            },
+            "zoneBindingLink": {
+                "@class": "BindingLink",
+                "targetId": {
+                    "uuid": "2CCD5B3E-81AC-41A1-AABA-627FC11DC61B"
+                },
+                "targetRelativeAddress": {
+                    "@class": "NodeRelativeAddressBase",
+                    "index": 7,
+                    "name": "Torturer Pistol 01",
+                    "subaddress": {
+                        "@class": "NodeRelativeAddressBase",
+                        "index": 1,
+                        "name": "Shooter",
+                        "subaddress": {
+                            "@class": "NodeRelativeAddressBase",
+                            "index": 0,
+                            "name": "Sensors",
+                            "subaddress": {
+                                "@class": "NodeRelativeAddressBase",
+                                "index": 11,
+                                "name": "Death System",
+                                "subaddress": {
+                                    "@class": "NodeRelativeAddressBase",
+                                    "index": 1,
+                                    "name": "Death-2",
+                                    "subaddress": {
+                                        "@class": "NodeRelativeAddressBase",
+                                        "index": 0,
+                                        "name": "Death-2"
+                                    }
+                                }
+                            }
+                        }
+                    }
+                }
+            },
+            "allowed": false
+        }
+    ]
+}
