@@ -1,0 +1,20 @@
+{
+    "@class": "AnimationScript",
+    "id": {
+        "uuid": "5EB5B95B-8865-4A4D-BCE2-DF0757C0B23C"
+    },
+    "name": "Shooter Speaker",
+    "enableOnAwake": false,
+    "OwnerLink": {
+        "@class": "BindingLink",
+        "targetId": {
+            "uuid": "D2B05DFC-5F61-4463-A633-8E8D6156E777"
+        }
+    },
+    "animation": {
+        "uuid": "77DFF316-0EA9-45E6-B82B-1D8D820779B1"
+    },
+    "AnimationType": "object3D",
+    "is_imported": false,
+    "isEnabled": true
+}

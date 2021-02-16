@@ -1,0 +1,11 @@
+{
+    "@class": "SoundSample",
+    "id": {
+        "uuid": "4A2EA672-9129-4CE5-AEC5-29C2F9F7CBDC"
+    },
+    "name": "Shot_Gun.wav",
+    "filePath": "Shot_Gun.wav",
+    "duration": 850.9296875,
+    "channels": 2,
+    "frequence": 44100
+}
