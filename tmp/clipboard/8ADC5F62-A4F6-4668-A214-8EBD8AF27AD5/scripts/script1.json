@@ -1,0 +1,40 @@
+{
+    "@class": "AnimationScript",
+    "id": {
+        "uuid": "7C44969E-ACE5-4E85-9DEB-6165DCCC2FE0"
+    },
+    "name": "AnimationScript",
+    "enableOnAwake": false,
+    "OwnerLink": {
+        "@class": "BindingLink",
+        "targetId": {
+            "uuid": "4CDB8890-20C8-4AD7-A2F2-9F10FEA0FC60"
+        },
+        "targetRelativeAddress": {
+            "@class": "NodeRelativeAddressBase",
+            "index": 7,
+            "name": "Torturer Pistol 01",
+            "subaddress": {
+                "@class": "NodeRelativeAddressBase",
+                "index": 1,
+                "name": "Shooter",
+                "subaddress": {
+                    "@class": "NodeRelativeAddressBase",
+                    "index": 0,
+                    "name": "Sensors",
+                    "subaddress": {
+                        "@class": "NodeRelativeAddressBase",
+                        "index": 8,
+                        "name": "Jump Target Detector"
+                    }
+                }
+            }
+        }
+    },
+    "animation": {
+        "uuid": "479B7922-C888-49E7-A95D-933CE77EEE53"
+    },
+    "AnimationType": "object3D",
+    "is_imported": false,
+    "isEnabled": true
+}

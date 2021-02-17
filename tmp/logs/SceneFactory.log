@@ -15,3 +15,5 @@
 [20:42:09.243342] [SceneFactory] [info] (th=124612) Capsule is created: id: 428EB8EF-F1D5-4903-97B0-35EB8F60AB21
 [21:50:11.550042] [SceneFactory] [info] (th=304766) GhostObject is created: id: 6E12DF51-5722-46CE-B304-0334054CAC7D
 [21:50:11.934979] [SceneFactory] [info] (th=304766) GhostObject is created: id: D97EB6D2-ADD4-4B68-90FC-AFCC357B0EB0
+[21:03:53.741427] [SceneFactory] [info] (th=37721) Log level for 'SceneFactory' set to 'info'
+[21:54:06.704869] [SceneFactory] [info] (th=382782) Log level for 'SceneFactory' set to 'info'
