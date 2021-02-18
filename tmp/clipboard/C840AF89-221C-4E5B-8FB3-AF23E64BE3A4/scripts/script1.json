@@ -1,0 +1,40 @@
+{
+    "@class": "AnimationScript",
+    "id": {
+        "uuid": "C88C8F42-F142-4490-AA15-F8553166BD3D"
+    },
+    "name": "Pull Body",
+    "enableOnAwake": false,
+    "OwnerLink": {
+        "@class": "BindingLink",
+        "targetId": {
+            "uuid": "1B51DE7B-E9B0-4404-B196-BCA61A151608"
+        },
+        "targetRelativeAddress": {
+            "@class": "NodeRelativeAddressBase",
+            "index": 7,
+            "name": "Torturer Pistol 01",
+            "subaddress": {
+                "@class": "NodeRelativeAddressBase",
+                "index": 1,
+                "name": "Shooter",
+                "subaddress": {
+                    "@class": "NodeRelativeAddressBase",
+                    "index": 0,
+                    "name": "Sensors",
+                    "subaddress": {
+                        "@class": "NodeRelativeAddressBase",
+                        "index": 6,
+                        "name": "Pull Body"
+                    }
+                }
+            }
+        }
+    },
+    "animation": {
+        "uuid": "312CA59D-0BD5-4909-9626-1154A4CCAB54"
+    },
+    "AnimationType": "object3D",
+    "is_imported": false,
+    "isEnabled": true
+}
