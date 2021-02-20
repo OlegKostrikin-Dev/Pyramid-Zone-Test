@@ -16,3 +16,7 @@
 [21:50:11.550042] [SceneFactory] [info] (th=304766) GhostObject is created: id: 6E12DF51-5722-46CE-B304-0334054CAC7D
 [21:50:11.934979] [SceneFactory] [info] (th=304766) GhostObject is created: id: D97EB6D2-ADD4-4B68-90FC-AFCC357B0EB0
 [17:23:11.698925] [SceneFactory] [info] (th=558322) Log level for 'SceneFactory' set to 'info'
+[18:13:02.158493] [SceneFactory] [info] (th=842936) Log level for 'SceneFactory' set to 'info'
+[18:13:02.158542] [SceneFactory] [info] (th=842936) Box is created: id: 3C2FF5BC-4D7C-41C4-A4F8-CA2E65B11776
+[12:48:16.369175] [SceneFactory] [info] (th=1019077) Log level for 'SceneFactory' set to 'info'
+[13:48:27.423500] [SceneFactory] [info] (th=1101019) Log level for 'SceneFactory' set to 'info'

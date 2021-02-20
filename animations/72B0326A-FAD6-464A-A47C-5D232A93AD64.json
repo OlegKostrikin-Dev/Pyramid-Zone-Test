@@ -1,1 +1,1 @@
-{"@class":"Animation","id":{"uuid":"72B0326A-FAD6-464A-A47C-5D232A93AD64"},"tracks":[{"@class":"TimeLineTrack","clips":[{"@class":"TimeLineClip","beginTime":0,"duration":3799,"script":"TimeLineClipScript","behavior":{"@class":"TimeLineBehavior","speed":1.0,"weights":{}},"bindinglink":{"@class":"BindingLink","targetId":{"uuid":"A7F61BD9-F32F-47E5-9BC5-3FAD898E6F02"}},"color":{"values":[0.0,0.0,0.0]}}],"script":"TimeLineTrackScript","accessor":"TimeLineAccessor"}]}
+{"@class":"Animation","id":{"uuid":"72B0326A-FAD6-464A-A47C-5D232A93AD64"}}

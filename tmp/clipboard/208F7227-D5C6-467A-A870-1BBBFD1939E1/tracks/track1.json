@@ -1,0 +1,31 @@
+{
+    "@class": "SoundTrack",
+    "clips": [
+        {
+            "@class": "SoundClip",
+            "beginTime": 0,
+            "duration": 5750,
+            "script": "SoundClipScript",
+            "behavior": {
+                "@class": "SoundSampleBehavior",
+                "volume": 1.0,
+                "volumeModulation": 0.0,
+                "pitch": 1.0,
+                "pitchModulation": 0.0,
+                "soundSampleId": {
+                    "uuid": "0B7B6AF7-77C8-4CCB-BFEF-EDAF79D05ABA"
+                }
+            },
+            "color": {
+                "values": [
+                    0.054901961237192157,
+                    0.7882353067398071,
+                    0.800000011920929
+                ]
+            }
+        }
+    ],
+    "script": "SoundTrackScript",
+    "accessor": "AudioSourceAccessor",
+    "volume": 1.0
+}

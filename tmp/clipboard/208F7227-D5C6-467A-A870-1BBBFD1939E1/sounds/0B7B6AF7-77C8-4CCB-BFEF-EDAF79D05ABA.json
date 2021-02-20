@@ -1,0 +1,11 @@
+{
+    "@class": "SoundSample",
+    "id": {
+        "uuid": "0B7B6AF7-77C8-4CCB-BFEF-EDAF79D05ABA"
+    },
+    "name": "Torturer_search_main_heroe.wav",
+    "filePath": "Torturer_search_main_heroe.wav",
+    "duration": 5750.04541015625,
+    "channels": 2,
+    "frequence": 44100
+}

@@ -1,0 +1,11 @@
+{
+    "@class": "SoundSample",
+    "id": {
+        "uuid": "70F55570-DA29-4500-9310-19A7A974701E"
+    },
+    "name": "Shooter_Sigh_3.wav",
+    "filePath": "Shooter_Sigh_3.wav",
+    "duration": 854.4444580078125,
+    "channels": 2,
+    "frequence": 44100
+}
