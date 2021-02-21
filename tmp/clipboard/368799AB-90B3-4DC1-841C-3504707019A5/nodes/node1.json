@@ -1,0 +1,78 @@
+[
+    {
+        "@class": "BaseNode",
+        "object3D": {
+            "@class": "BaseObject3D",
+            "id": {
+                "uuid": "A1BB83EA-5428-485E-A7F0-80B94B0DAB30"
+            },
+            "name": "Body Torturer R 01",
+            "enabled": true,
+            "visible": true,
+            "hitVisible": true,
+            "colliders": [
+                {
+                    "@class": "BaseComponentCollider",
+                    "colliderId": {
+                        "uuid": "31399423-167C-4D8F-A803-604F6626D9F1"
+                    }
+                }
+            ],
+            "rigidBody": {
+                "@class": "BaseComponentPhysBody",
+                "rigidBodyId": {
+                    "uuid": "59B9651F-876B-4960-ADB4-BAA3C85D25DD"
+                },
+                "isEnabled": true
+            },
+            "transform": {
+                "@class": "BaseComponentTransformable",
+                "localTransforms": {
+                    "values": [
+                        -1.1920931797249069e-7,
+                        1.7355707157192147e-18,
+                        1.0000001192092896,
+                        0.0,
+                        -1.7355709225143678e-18,
+                        1.0000001192092896,
+                        -1.7355709225143678e-18,
+                        0.0,
+                        -1.0000001192092896,
+                        -1.735571129309521e-18,
+                        -1.1920931797249069e-7,
+                        0.0,
+                        -9.198483641448263e-11,
+                        -2.07720947265625,
+                        0.00038581242552027106,
+                        1.0
+                    ]
+                },
+                "globalTransforms": {
+                    "values": [
+                        -8.741276591450742e-10,
+                        -4.152387322875484e-9,
+                        -0.027499990537762643,
+                        0.0,
+                        3.630609528547526e-16,
+                        0.027499990537762643,
+                        -4.152387322875484e-9,
+                        0.0,
+                        0.02749999798834324,
+                        -4.950504177260256e-16,
+                        -8.741258827882348e-10,
+                        0.0,
+                        48.41147994995117,
+                        12.359660148620606,
+                        -0.000011817683116532863,
+                        0.9999998807907105
+                    ]
+                }
+            },
+            "metadata": {
+                "importedIdentifier": "",
+                "importedName": "",
+                "isBone": false
+            }
+        }
+    }
+]

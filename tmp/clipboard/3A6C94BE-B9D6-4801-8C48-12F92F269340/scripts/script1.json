@@ -1,0 +1,17 @@
+{
+    "@class": "AnimationScript",
+    "id": {
+        "uuid": "BA5EC110-0C99-415D-82E7-54ACE4694668"
+    },
+    "name": "Inserted animations",
+    "enableOnAwake": false,
+    "OwnerLink": {
+        "@class": "BindingLink"
+    },
+    "animation": {
+        "uuid": "902490F7-5659-4223-916E-F3DAE3EBA0FE"
+    },
+    "AnimationType": "timeline",
+    "is_imported": false,
+    "isEnabled": true
+}
