@@ -1,0 +1,20 @@
+{
+    "@class": "AnimationScript",
+    "id": {
+        "uuid": "2C2C4DD8-1399-4229-9765-00CAA37B83AB"
+    },
+    "name": "Active State",
+    "enableOnAwake": false,
+    "OwnerLink": {
+        "@class": "BindingLink",
+        "targetId": {
+            "uuid": "5FD217A7-3976-4586-A549-4BE9ED15199C"
+        }
+    },
+    "animation": {
+        "uuid": "1C075B15-5B6D-4D87-AAEC-F1FB8A580D04"
+    },
+    "AnimationType": "object3D",
+    "is_imported": false,
+    "isEnabled": true
+}
