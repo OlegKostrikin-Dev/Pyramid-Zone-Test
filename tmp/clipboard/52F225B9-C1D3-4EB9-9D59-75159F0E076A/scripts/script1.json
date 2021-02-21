@@ -1,0 +1,20 @@
+{
+    "@class": "AnimationScript",
+    "id": {
+        "uuid": "E1CF4F26-6D03-49FD-A6BD-B036B9ED5663"
+    },
+    "name": "GBullet Test",
+    "enableOnAwake": false,
+    "OwnerLink": {
+        "@class": "BindingLink",
+        "targetId": {
+            "uuid": "770A63BE-4855-47AC-8087-9B5C726E678C"
+        }
+    },
+    "animation": {
+        "uuid": "19E75CA6-F17B-4D6E-8E87-C660449BA313"
+    },
+    "AnimationType": "object3D",
+    "is_imported": false,
+    "isEnabled": true
+}

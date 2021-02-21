@@ -1,0 +1,20 @@
+{
+    "@class": "AnimationScript",
+    "id": {
+        "uuid": "A0CED2CA-FC60-40F8-B1DA-C3ECBEB593F1"
+    },
+    "name": "Bullet Test R 01",
+    "enableOnAwake": false,
+    "OwnerLink": {
+        "@class": "BindingLink",
+        "targetId": {
+            "uuid": "3A8DC76B-0DCC-4C2C-AB23-0667E578AA5E"
+        }
+    },
+    "animation": {
+        "uuid": "4C36240A-C121-47FC-8FB9-1ACAC9C9B4CE"
+    },
+    "AnimationType": "object3D",
+    "is_imported": false,
+    "isEnabled": true
+}
