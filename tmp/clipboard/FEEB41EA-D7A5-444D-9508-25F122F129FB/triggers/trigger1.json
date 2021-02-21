@@ -1,0 +1,29 @@
+{
+    "@class": "AnimationTrigger",
+    "id": {
+        "uuid": "9163E246-F12F-401F-9033-E47AF749E6EA"
+    },
+    "ownerScriptId": {
+        "uuid": "4851454B-63A1-4055-990D-38FCE6D01D39"
+    },
+    "logicOperation": 1,
+    "resultType": 0,
+    "isInverted": true,
+    "event": 3,
+    "bindingLink": {
+        "@class": "BindingLink",
+        "targetId": {
+            "uuid": "A37CB092-C9F6-4DBF-8EA4-0913930B69B8"
+        },
+        "targetRelativeAddress": {
+            "@class": "NodeRelativeAddressBase",
+            "index": 8,
+            "name": "Torturer Pistol 01",
+            "subaddress": {
+                "@class": "NodeRelativeAddressBase",
+                "index": 21,
+                "name": "5. Floating"
+            }
+        }
+    }
+}
