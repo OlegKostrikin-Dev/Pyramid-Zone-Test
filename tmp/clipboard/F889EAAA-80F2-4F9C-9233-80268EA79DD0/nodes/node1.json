@@ -1,0 +1,69 @@
+[
+    {
+        "@class": "BaseNode",
+        "object3D": {
+            "@class": "BaseObject3D",
+            "id": {
+                "uuid": "8272EC81-A790-47AC-B432-647EF831C938"
+            },
+            "name": "After Shooting",
+            "enabled": true,
+            "visible": true,
+            "hitVisible": true,
+            "timeline": {
+                "@class": "BaseComponentTimeline",
+                "timelineId": {
+                    "uuid": "710F6FFC-E19D-4F7C-B826-E6FCA81DF9D0"
+                }
+            },
+            "transform": {
+                "@class": "BaseComponentTransformable",
+                "localTransforms": {
+                    "values": [
+                        1.0,
+                        0.0,
+                        0.0,
+                        0.0,
+                        0.0,
+                        1.0,
+                        0.0,
+                        0.0,
+                        0.0,
+                        0.0,
+                        1.0,
+                        0.0,
+                        0.0,
+                        0.0,
+                        0.0,
+                        1.0
+                    ]
+                },
+                "globalTransforms": {
+                    "values": [
+                        0.02499999664723873,
+                        9.529119773086665e-23,
+                        2.1855695031547386e-9,
+                        0.0,
+                        3.300118713050375e-16,
+                        0.024999994784593583,
+                        -3.774895951380586e-9,
+                        0.0,
+                        -2.1855692811101336e-9,
+                        3.774895951380586e-9,
+                        0.024999994784593583,
+                        0.0,
+                        37.40039825439453,
+                        8.719686508178711,
+                        -2.788192413223905e-14,
+                        0.9999999403953552
+                    ]
+                }
+            },
+            "metadata": {
+                "importedIdentifier": "",
+                "importedName": "",
+                "isBone": false
+            }
+        }
+    }
+]

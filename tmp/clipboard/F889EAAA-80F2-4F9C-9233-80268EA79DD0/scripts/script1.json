@@ -1,0 +1,82 @@
+{
+    "@class": "TimeLineScript",
+    "id": {
+        "uuid": "710F6FFC-E19D-4F7C-B826-E6FCA81DF9D0"
+    },
+    "name": "Bot_Shooter_01 Animation 1",
+    "enableOnAwake": false,
+    "loop": false,
+    "jumpToFirstFrameAtEnd": false,
+    "speed": 1.0,
+    "weight": 1.0,
+    "loopStartTime": 0,
+    "loopDuration": 0,
+    "is_imported": false,
+    "type": "user",
+    "scripts": {
+        "@class": "StdListRuntimeScript",
+        "list": [
+            {
+                "@class": "AnimationScript",
+                "id": {
+                    "uuid": "66755E55-E668-416A-9B66-6AF11A8339E8"
+                },
+                "name": "MuzzleFlash",
+                "enableOnAwake": false,
+                "OwnerLink": {
+                    "@class": "BindingLink",
+                    "targetId": {
+                        "uuid": "2B44E7DD-9CA1-4574-923B-5B2CE502A28E"
+                    }
+                },
+                "animation": {
+                    "uuid": "C5DB641C-3850-4D81-BEAE-04ABFF96C10E"
+                },
+                "AnimationType": "object3D",
+                "is_imported": false,
+                "isEnabled": true
+            },
+            {
+                "@class": "AnimationScript",
+                "id": {
+                    "uuid": "6B5279AE-D1C7-4F3E-BB2B-31A46DB6A82D"
+                },
+                "name": "MuzzleFlash",
+                "enableOnAwake": false,
+                "OwnerLink": {
+                    "@class": "BindingLink",
+                    "targetId": {
+                        "uuid": "EBC603A4-67A4-4818-B316-5291E9C34587"
+                    }
+                },
+                "animation": {
+                    "uuid": "B74BF617-443B-4C6A-913C-BC5F02258B67"
+                },
+                "AnimationType": "object3D",
+                "is_imported": false,
+                "isEnabled": true
+            }
+        ]
+    },
+    "triggers": [
+        {
+            "@class": "AnimationTrigger",
+            "id": {
+                "uuid": "2EA6B60D-BD8D-4EBA-80F3-ADAA108B7844"
+            },
+            "ownerScriptId": {
+                "uuid": "710F6FFC-E19D-4F7C-B826-E6FCA81DF9D0"
+            },
+            "logicOperation": 0,
+            "resultType": 0,
+            "isInverted": false,
+            "event": 2,
+            "bindingLink": {
+                "@class": "BindingLink",
+                "targetId": {
+                    "uuid": "E963BCEA-2689-482B-A4E0-82050AA88218"
+                }
+            }
+        }
+    ]
+}
